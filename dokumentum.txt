@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Boros Barnabás
+osztály:9.c
